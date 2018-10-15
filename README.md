@@ -1,7 +1,7 @@
 # ny-times-modal
 Removes the NY Times subscription modal
 
-Are you tired of looking at recipes on the NY Times website? Me too.
+Are you tired of looking at recipes on the NY Times Cooking website and running into subscription roadblocks? Me too.
 
 One thing you could do is [Subscribe](https://www.nytimes.com/subscriptions/Multiproduct/lp8R3WU.html)
 
